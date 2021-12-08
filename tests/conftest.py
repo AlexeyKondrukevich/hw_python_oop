@@ -26,7 +26,6 @@ class Capturing(list):
         del self._stringio  # free up some memory
         sys.stdout = self._stdout
 
-        
+
 def pytest_make_parametrize_id(config, val):
     return repr(val)
-        
