@@ -28,7 +28,7 @@ python -m venv venv
 Активируем виртуальное окружение:
 
 ```bash
-source venv/Scripts/activate
+source venv/bin/activate
 ```
 
 
