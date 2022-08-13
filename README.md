@@ -1,6 +1,6 @@
 # Модуль расчёта и отображения полной информации о тренировках по данным от блока датчиков.
 
-- [ ] https://img.shields.io/badge/Developed%20by-Kondr-blue
+[https://github.com/AlexeyKondrukevich](https://img.shields.io/badge/Developed%20by-Kondr-blue)
 
 
 Реализован программный модуль по методологии ООП для расчёта и отображения информации
